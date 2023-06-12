@@ -1,0 +1,3 @@
+Create file: /home/hoaison/Desktop/node-core-concepts/file-management/new-file-1.txt
+2nd row
+Add content file /home/hoaison/Desktop/node-core-concepts/file-management/new-file.txt: Hello from NodeJs
